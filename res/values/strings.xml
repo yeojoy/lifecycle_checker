@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LifeCycleCheckApp</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Menu 이름 -->
+    <string name="action_call_myself">나</string>
+    <string name="action_call_next">다음</string>
+    <string name="action_call_next_with_flag_single">다음_s</string>
+    <string name="action_call_next_with_flag_clear">다음_c</string>
+
+</resources>
